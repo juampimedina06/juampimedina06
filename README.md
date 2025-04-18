@@ -3,7 +3,7 @@
 
 <hr>
 
-<h1 align="center">Hola<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Juampi medina </h1>
+<h1 align="center">Hola<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Juan </h1>
 
 <!-- FRASE PRINCIPAL -->
 <h4 align="center"><em>"Si lo podés imaginar, lo podés programar"</em><br/>— Alejandro Taboada Sánchez</h4>
@@ -17,7 +17,7 @@
  - :school: estudiando en Desarrollo de software en [itsc](https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/)
 - :technologist: **actualmente estudiando para ser** `Full Stack Development` 
 - :boom: Mi sitio web [MY WEBSITE](https://portafolio-juan-pablo-medina.netlify.app/) 
-- 📧: cualquier cosa enviame por correo  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=PAU45&amp;color=EA4335&amp;style=flat-square)](gmail:jpmedinagomez1@gmail.com)
+- 📧: cualquier cosa enviame por correo  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jpmedinagomez1&amp;color=EA4335&amp;style=flat-square)](gmail:jpmedinagomez1@gmail.com)
 
 
 <hr>
