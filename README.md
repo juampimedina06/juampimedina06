@@ -1,8 +1,9 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <hr>
 
-<h1 align="center">Hola<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Juan </h1>
+<h1 align="center">Buenas chicos codigos<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Juampi </h1>
 
 <!-- FRASE PRINCIPAL -->
 <h4 align="center"><em>"Si lo podés imaginar, lo podés programar"</em><br/>— Alejandro Taboada Sánchez</h4>
@@ -12,6 +13,9 @@
 <!-- SOBRE MÍ -->
 <h3 align="center">💻 Me apasiona programar, entrenar, resolver problemas y asumir desafíos.</h3>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mi 
+
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
  - :school: estudiando en Desarrollo de software en [itsc](https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/)
 - :technologist: **actualmente estudiando para ser** `Full Stack Development` 
@@ -66,4 +70,6 @@
 
 <!-- FOOTER -->
 <p align="center">Última actualización: 18/04/2025</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
