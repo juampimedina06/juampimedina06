@@ -15,7 +15,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mi 
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
  - :school: estudiando en Desarrollo de software en [itsc](https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/)
 - :technologist: **actualmente estudiando para ser** `Full Stack Development` 
