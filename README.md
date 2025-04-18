@@ -13,12 +13,12 @@
 <!-- SOBRE MÍ -->
 <h3 align="center">💻 Me apasiona programar, entrenar, resolver problemas y asumir desafíos.</h3>
 
-<ul>
+
  - :school: estudiando en Desarrollo de software en [itsc](https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/)
 - :technologist: **actualmente estudiando para ser** `Full Stack Development` 
 - :boom: Mi sitio web [MY WEBSITE](https://portafolio-juan-pablo-medina.netlify.app/) 
 - 📧: cualquier cosa enviame por correo  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=PAU45&amp;color=EA4335&amp;style=flat-square)](gmail:jpmedinagomez1@gmail.com)
-</ul>
+
 
 <hr>
 
@@ -38,6 +38,7 @@
 <!-- HERRAMIENTAS Y LENGUAJES -->
 <h3 align="center">Lenguajes y herramientas que uso:</h3>
 <p align="center">
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
