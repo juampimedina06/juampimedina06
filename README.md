@@ -7,8 +7,6 @@
 
 <!-- FRASE PRINCIPAL -->
 
-<hr>
-
 <!-- SOBRE MÍ -->
 <h3 align="center">💻 Me apasiona programar, entrenar, resolver problemas y asumir desafíos.</h3>
 
