@@ -6,7 +6,6 @@
 <h1 align="center">< Bienvenidos chicos codigo <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, Soy Juampi /> </h1>
 
 <!-- FRASE PRINCIPAL -->
-<h4 align="center"><em>"Si lo podés imaginar, lo podés programar"</em><br/>— Alejandro Taboada Sánchez</h4>
 
 <hr>
 
