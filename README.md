@@ -82,7 +82,7 @@
 <hr>
 
 <!-- ESTADÍSTICAS GITHUB -->
-<h3 align="center">📊 Stats de GitHub:</h3>
+<h3 align="center">📊 Stats de GitHub</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juampimedina06&show_icons=true&theme=dark" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juampimedina06&layout=compact&theme=dark" alt="Top Langs"/>
