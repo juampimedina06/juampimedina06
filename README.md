@@ -8,7 +8,7 @@
 <!-- FRASE PRINCIPAL -->
 
 <!-- SOBRE MÍ -->
-<h3 align="center">💻 Me apasiona programar, entrenar, resolver problemas y asumir desafíos.</h3>
+<h3 align="center">💻 Me apasiona entrenar, resolver problemas y asumir desafíos.</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mi 
 
