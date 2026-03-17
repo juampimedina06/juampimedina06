@@ -14,8 +14,8 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
- - :school: Estudiando Desarrollo de software en [itsc](https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/)
-- :boom:Entra a mi portafolio web [Portafolio-Medina](https://portafolio-medina.vercel.app/)
+ - :school: Estudiando Desarrollo de software en [itsc]([https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/](https://www.institutotecnicocordoba.com/))
+- :boom:Entra a mi portafolio web [Portafolio-Medina](https://cv-medina.vercel.app/)
 - 📧: cualquier idea o consulta enviame un correo  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jpmedinagomez1&amp;color=EA4335&amp;style=flat-square)](gmail:jpmedinagomez1@gmail.com)
 
 
@@ -91,6 +91,6 @@
 <hr>
 
 <!-- FOOTER -->
-<p align="center">Última actualización: 15/05/2025</p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">Última actualización: 17/03/2026</p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
