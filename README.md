@@ -3,7 +3,7 @@
 
 <hr>
 
-<h1 align="center">< Bienvenidos<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, me llamo Juan /> </h1>
+<h1 align="center">< Bienvenidos<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">/> </h1>
 
 <!-- FRASE PRINCIPAL -->
 
