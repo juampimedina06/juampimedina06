@@ -36,8 +36,9 @@ Estudiante avanzado de Desarrollo de Software en el [ITSC](https://www.instituto
 **Frontend Intern** · Hyper Company *(Miami, remoto)*  
 Desarrollo frontend en entorno profesional internacional.
 
-**Frontend Developer** · Circular Local — Technology with Purpose Foundation *(actual)*  
+**Full Stack Developer** · Circular Local — Technology with Purpose Foundation *(actual)*  
 Arquitectura Angular 20: guards, signals, componentes standalone, Reactive Forms.
+Backend en Node.js/Express: diseño e implementación de endpoints REST arquitectura MVC — Model, View, Controller. 
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=juampimedina06&theme=transparent&hide_border=true&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="130"/>
