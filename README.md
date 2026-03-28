@@ -11,7 +11,7 @@
 
 ---
 
-Estudiante avanzado de Desarrollo de Software en el [ITSC](https://www.institutotecnicocordoba.com/). Me especializo en construir interfaces modernas con Angular y React, y tengo experiencia trabajando en equipos ágiles con proyectos reales.
+Estudiante avanzado de Desarrollo de Software en el [ITSC](https://www.institutotecnicocordoba.com/). Me especializo en construir interfaces modernas con Angular y React, priorizando arquitectura limpia y escalable según los requerimientos del proyecto. Experiencia real en equipos ágiles, trabajando en todas las capas del stack — desde componentes standalone hasta endpoints REST y modelado de base de datos.
 
 ---
 
