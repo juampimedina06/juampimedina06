@@ -47,8 +47,8 @@ Backend en Node.js/Express: diseño e implementación de endpoints REST arquitec
 ## Educación
 
 **Tecnicatura Superior en Desarrollo de Software** · ITSC · 2do año en curso  
-**Oracle Next Education** · Alura Latam - Espacializacion en Front End
-**xAcademy-Dev — Full Stack · Technology with Purpose Foundation (Santex)**
+**Oracle Next Education** · Alura Latam - Espacializacion en Front End <br>
+**xAcademy-Dev — Full Stack** · Technology with Purpose Foundation (Santex)
 
 ---
 
