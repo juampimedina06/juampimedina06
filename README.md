@@ -1,96 +1,94 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
+<div align="center">
 
-<hr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Juan+Pablo+Medina;Frontend+%2F+Full-Stack+Developer;Angular+%7C+React+%7C+Node.js;Córdoba%2C+Argentina)](https://cv-medina.vercel.app/)
 
-<h1 align="center">< Bienvenidos<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">/> </h1>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://cv-medina.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jpmedinagomez1@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=juampimedina06&style=flat-square&color=555555&label=profile+views)
 
-<!-- FRASE PRINCIPAL -->
+</div>
 
-<!-- SOBRE MÍ -->
-<h3 align="center">💻 Me apasiona resolver problemas y asumir desafíos.</h3>
+---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> Acerca de mi 
+Estudiante avanzado de Desarrollo de Software en el [ITSC](https://www.institutotecnicocordoba.com/). Me especializo en construir interfaces modernas con Angular y React, y tengo experiencia trabajando en equipos ágiles con proyectos reales.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+---
 
- - :school: Estudiando Desarrollo de software en [itsc]([https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/](https://www.institutotecnicocordoba.com/))
-- :boom:Entra a mi portafolio web [Portafolio-Medina](https://cv-medina.vercel.app/)
-- 📧: cualquier idea o consulta enviame un correo  [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=Jpmedinagomez1&amp;color=EA4335&amp;style=flat-square)](gmail:jpmedinagomez1@gmail.com)
+## Stack
 
+**Frontend**
 
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=angular,react,nextjs,ts,tailwind&theme=dark)](https://skillicons.dev)
 
-<!-- REDES -->
-<h3 align="center">Conectá conmigo:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-pablo-medina-199b3b2b4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/juampimedina_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-  </a>
-</p>
+**Backend & Datos**
 
-<hr>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize,supabase&theme=dark)](https://skillicons.dev)
 
-<!-- HERRAMIENTAS Y LENGUAJES -->
-<h3 align="center">Lenguajes y herramientas que uso:</h3>
-<p align="center">
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- </a>
- <a href="https://angular.io" target="_blank">
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
- </a>
- <a href="https://getbootstrap.com" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
- </a>
- <a href="https://firebase.google.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
- </a>
- <a href="https://supabase.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/img/supabase-logo-icon.png" width="40" height="40"/>
- </a>
- <a href="https://magicui.design/" target="_blank">
-   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="40" height="40"/>
- </a>
- <a href="https://sass-lang.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/>
- </a>
- <a href="https://styled-components.com/" target="_blank">
-   <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" width="40" height="40"/>
- </a>
- <a href="https://tailwindcss.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
- </a>
- <a href="https://www.typescriptlang.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- </a>
- <a href="https://www.w3.org/html/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
- </a>
-</p>
+**Tooling**
 
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,figma,vscode&theme=dark)](https://skillicons.dev)
 
-<hr>
+---
 
-<!-- ESTADÍSTICAS GITHUB -->
-<h3 align="center">📊 Stats de GitHub</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juampimedina06&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juampimedina06&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
+## Proyectos
 
-<hr>
+**[CircularLocal](https://github.com/juampimedina06)** · *en desarrollo*  
+Plataforma de economía circular local. Full-stack colaborativo (equipo de 4) bajo mentoría de Santex en Technology with Purpose Foundation.  
+`Angular 20` · `Node.js` · `Express` · `MySQL` · `Docker` · `Scrum`
 
-<!-- FOOTER -->
-<p align="center">Última actualización: 17/03/2026</p> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**[Portfolio Web](https://cv-medina.vercel.app/)**  
+Portfolio personal con animaciones avanzadas y CMS propio vía Supabase.  
+`Next.js` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `Framer Motion` · `GSAP`
 
+**El Pequeño Hong Kong**  
+E-commerce con panel de administración completo y gestión de estado global.  
+`React 18` · `TypeScript` · `Zustand` · `TanStack Query` · `Supabase`
 
+**FIFA List**  
+App de gestión deportiva full-stack con autenticación JWT, gráficos y exportación Excel.  
+`Angular 20` · `Node.js` · `Express 5` · `MySQL` · `Chart.js`
+
+---
+
+## Experiencia
+
+**Frontend Intern** · Hyper Company *(Miami, remoto)*  
+Desarrollo frontend en entorno profesional internacional.
+
+**Frontend Developer** · Circular Local — Technology with Purpose Foundation *(actual)*  
+Arquitectura Angular 20: guards, signals, componentes standalone, Reactive Forms.
+
+---
+
+## Educación
+
+**Tecnicatura Superior en Desarrollo de Software** · ITSC · 2do año en curso  
+**Oracle Next Education** · Alura Latam
+
+---
+
+<div align="center">
+
+## Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=juampimedina06&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" height="130"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juampimedina06&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" height="130"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=juampimedina06&theme=transparent&hide_border=true&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="130"/>
+
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=juampimedina06&theme=onestar&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juampimedina06/juampimedina06/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juampimedina06/juampimedina06/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/juampimedina06/juampimedina06/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
