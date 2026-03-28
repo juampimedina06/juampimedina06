@@ -52,8 +52,8 @@ Arquitectura Angular 20: guards, signals, componentes standalone, Reactive Forms
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=juampimedina06&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github" height="130"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=juampimedina06&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" height="130"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=juampimedina06&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&include_all_commits=true" height="130"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juampimedina06&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" height="130"/>
 
 <br/>
 
@@ -61,7 +61,7 @@ Arquitectura Angular 20: guards, signals, componentes standalone, Reactive Forms
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juampimedina06&theme=onestar&no-frame=true&no-bg=true&margin-w=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=juampimedina06&theme=onestar&no-frame=true&no-bg=true&margin-w=6)](https://github.com/lucthienphong1120/github-trophies)
 
 <br/>
 
