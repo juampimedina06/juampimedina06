@@ -31,26 +31,6 @@ Estudiante avanzado de Desarrollo de Software en el [ITSC](https://www.instituto
 
 ---
 
-## Proyectos
-
-**[CircularLocal](https://github.com/juampimedina06)** · *en desarrollo*  
-Plataforma de economía circular local. Full-stack colaborativo (equipo de 4) bajo mentoría de Santex en Technology with Purpose Foundation.  
-`Angular 20` · `Node.js` · `Express` · `MySQL` · `Docker` · `Scrum`
-
-**[Portfolio Web](https://cv-medina.vercel.app/)**  
-Portfolio personal con animaciones avanzadas y CMS propio vía Supabase.  
-`Next.js` · `React 19` · `TypeScript` · `Tailwind CSS 4` · `Framer Motion` · `GSAP`
-
-**El Pequeño Hong Kong**  
-E-commerce con panel de administración completo y gestión de estado global.  
-`React 18` · `TypeScript` · `Zustand` · `TanStack Query` · `Supabase`
-
-**FIFA List**  
-App de gestión deportiva full-stack con autenticación JWT, gráficos y exportación Excel.  
-`Angular 20` · `Node.js` · `Express 5` · `MySQL` · `Chart.js`
-
----
-
 ## Experiencia
 
 **Frontend Intern** · Hyper Company *(Miami, remoto)*  
