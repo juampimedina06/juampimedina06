@@ -39,7 +39,9 @@ Desarrollo frontend en entorno profesional internacional.
 **Frontend Developer** · Circular Local — Technology with Purpose Foundation *(actual)*  
 Arquitectura Angular 20: guards, signals, componentes standalone, Reactive Forms.
 
----
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=juampimedina06&theme=transparent&hide_border=true&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="130"/>
+</div>
 
 ## Educación
 
@@ -54,10 +56,6 @@ Arquitectura Angular 20: guards, signals, componentes standalone, Reactive Forms
 
 <img src="https://github-readme-stats-fast.vercel.app/api?username=juampimedina06&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888&icon_color=ffffff&rank_icon=github&include_all_commits=true" height="130"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=juampimedina06&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=888888" height="130"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=juampimedina06&theme=transparent&hide_border=true&stroke=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" height="130"/>
 
 <br/>
 
