@@ -11,7 +11,7 @@
 
 ---
 
-Estudiante avanzado de Desarrollo de Software en el [ITSC](https://www.institutotecnicocordoba.com/). Me especializo en construir interfaces modernas con Angular y React, priorizando arquitectura limpia y escalable según los requerimientos del proyecto. Experiencia real en equipos ágiles, trabajando en todas las capas del stack — desde componentes standalone hasta endpoints REST y modelado de base de datos.
+Estudiante avanzado de Desarrollo de Software en el [ITSC](https://www.institutotecnicocordoba.com/). Desarrollador Frontend con experiencia construyendo aplicaciones B2B y e-commerce full-stack. Implementé sistemas con autenticación, gestión de roles y dashboards interactivos, enfocados en mejorar la comunicación entre clientes y empresas. Trabajo con React, Next.js y Angular, priorizando arquitectura clara, rendimiento y experiencia de usuario.
 
 ---
 
