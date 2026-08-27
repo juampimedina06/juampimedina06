@@ -49,8 +49,8 @@ Desarrollando **TransferBlack**, plataforma móvil de transporte VIP para Córdo
 ### Métricas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=A9A9A9&text_color=808080&icon_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=A9A9A9&text_color=808080&bg_color=00000000" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juampimedina06&show_icons=true&theme=transparent&hide_border=true&title_color=A9A9A9&text_color=808080&icon_color=ffffff&bg_color=00000000" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juampimedina06&layout=compact&theme=transparent&hide_border=true&title_color=A9A9A9&text_color=808080&bg_color=00000000" alt="Top Languages" width="48%" />
 </div>
 
 ---
