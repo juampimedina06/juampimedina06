@@ -1,0 +1,1374 @@
+<svg viewBox="0 0 1400 260" xmlns="http://www.w3.org/2000/svg" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo4NjdmYTM0Mi00NTgzLTQwMjItOGU2MC1hYjQzOGFjMGE2YTEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBn3jmp17gZky0I6PgGnqdIAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDozNmNhMzhlNS00MTRmLTQ4ZDMtYjIzMy0xOWVlYTkxNjhhMGFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoPD6sMo6fNCZOqZXZ8m+sAAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg9itqsJGFPj5sU7CMeyBLaZvhgIxT0MFyWYbfZMbfsU2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaJOe2xcG8MYf0QFCF8QMkFsAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCrsCcRp0ATWG3maAgzTmj61710kVCX/9kS2cyfbDuJ/mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBh+Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjg2N2ZhMzQyLTQ1ODMtNDAyMi04ZTYwLWFiNDM4YWMwYTZhMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmUyNDQ4MzA5LWQzMjAtNDk1Zi04OGMzLTYxMDE4OTJmNjU0Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCD2K2qwkYU+PmxTsIx7IEtpm+GAjFPQwXJZht9kxt+xTaJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg18xCq7FPwc2w6xJKpdtueMpl1rqKim1+H3NeeEkemD6iY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggZmFGR57LipvPDfoOqFlhDRuGAgIMYHIcIGWE+qlg4K50Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQJtoezz8dv2EOKo0poSVkyHqR4pvcu3zYIsytrj+iEHZUW4P9FJhjZIUz1mF5Gdx+PzK3Es/JaN5+a0WL/9lw7E=</c2pa:manifest></metadata>
+  <defs>
+    <linearGradient id="bgfade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#39ff14" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#39ff14" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#c8ffb0" stop-opacity="1"/>
+    </linearGradient>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.1" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="260" fill="url(#bgfade)"/>
+
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="-1" y="0">
+      <tspan x="-1" dy="0" opacity="1.00">N</tspan>
+      <tspan x="-1" dy="15" opacity="0.90">ス</tspan>
+      <tspan x="-1" dy="15" opacity="0.80">0</tspan>
+      <tspan x="-1" dy="15" opacity="0.70">ク</tspan>
+      <tspan x="-1" dy="15" opacity="0.60">M</tspan>
+      <tspan x="-1" dy="15" opacity="0.50">フ</tspan>
+      <tspan x="-1" dy="15" opacity="0.40">オ</tspan>
+      <tspan x="-1" dy="15" opacity="0.30">シ</tspan>
+      <tspan x="-1" dy="15" opacity="0.20">9</tspan>
+      <tspan x="-1" dy="15" opacity="0.15">7</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -150" to="0 410"
+      dur="4.58s" begin="-5.71s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="17" y="0">
+      <tspan x="17" dy="0" opacity="1.00">タ</tspan>
+      <tspan x="17" dy="15" opacity="0.91">ヘ</tspan>
+      <tspan x="17" dy="15" opacity="0.82">ク</tspan>
+      <tspan x="17" dy="15" opacity="0.73">4</tspan>
+      <tspan x="17" dy="15" opacity="0.64">キ</tspan>
+      <tspan x="17" dy="15" opacity="0.55">ヘ</tspan>
+      <tspan x="17" dy="15" opacity="0.45">カ</tspan>
+      <tspan x="17" dy="15" opacity="0.36">ツ</tspan>
+      <tspan x="17" dy="15" opacity="0.27">ヨ</tspan>
+      <tspan x="17" dy="15" opacity="0.18">7</tspan>
+      <tspan x="17" dy="15" opacity="0.15">テ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="3.36s" begin="-3.45s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="41" y="0">
+      <tspan x="41" dy="0" opacity="1.00">ネ</tspan>
+      <tspan x="41" dy="15" opacity="0.89">セ</tspan>
+      <tspan x="41" dy="15" opacity="0.78">ノ</tspan>
+      <tspan x="41" dy="15" opacity="0.67">1</tspan>
+      <tspan x="41" dy="15" opacity="0.56">ス</tspan>
+      <tspan x="41" dy="15" opacity="0.44">ケ</tspan>
+      <tspan x="41" dy="15" opacity="0.33">ク</tspan>
+      <tspan x="41" dy="15" opacity="0.22">ヒ</tspan>
+      <tspan x="41" dy="15" opacity="0.15">P</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="5.28s" begin="-2.64s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="62" y="0">
+      <tspan x="62" dy="0" opacity="1.00">C</tspan>
+      <tspan x="62" dy="15" opacity="0.94">0</tspan>
+      <tspan x="62" dy="15" opacity="0.88">ラ</tspan>
+      <tspan x="62" dy="15" opacity="0.81">ミ</tspan>
+      <tspan x="62" dy="15" opacity="0.75">ネ</tspan>
+      <tspan x="62" dy="15" opacity="0.69">ミ</tspan>
+      <tspan x="62" dy="15" opacity="0.62">サ</tspan>
+      <tspan x="62" dy="15" opacity="0.56">ラ</tspan>
+      <tspan x="62" dy="15" opacity="0.50">I</tspan>
+      <tspan x="62" dy="15" opacity="0.44">P</tspan>
+      <tspan x="62" dy="15" opacity="0.38">ワ</tspan>
+      <tspan x="62" dy="15" opacity="0.31">B</tspan>
+      <tspan x="62" dy="15" opacity="0.25">ユ</tspan>
+      <tspan x="62" dy="15" opacity="0.19">コ</tspan>
+      <tspan x="62" dy="15" opacity="0.15">タ</tspan>
+      <tspan x="62" dy="15" opacity="0.15">E</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -240" to="0 500"
+      dur="4.71s" begin="-4.12s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="80" y="0">
+      <tspan x="80" dy="0" opacity="1.00">J</tspan>
+      <tspan x="80" dy="15" opacity="0.90">7</tspan>
+      <tspan x="80" dy="15" opacity="0.80">カ</tspan>
+      <tspan x="80" dy="15" opacity="0.70">コ</tspan>
+      <tspan x="80" dy="15" opacity="0.60">ル</tspan>
+      <tspan x="80" dy="15" opacity="0.50">ワ</tspan>
+      <tspan x="80" dy="15" opacity="0.40">ヲ</tspan>
+      <tspan x="80" dy="15" opacity="0.30">P</tspan>
+      <tspan x="80" dy="15" opacity="0.20">C</tspan>
+      <tspan x="80" dy="15" opacity="0.15">ケ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -150" to="0 410"
+      dur="6.03s" begin="-5.09s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="103" y="0">
+      <tspan x="103" dy="0" opacity="1.00">ケ</tspan>
+      <tspan x="103" dy="15" opacity="0.89">ク</tspan>
+      <tspan x="103" dy="15" opacity="0.78">リ</tspan>
+      <tspan x="103" dy="15" opacity="0.67">B</tspan>
+      <tspan x="103" dy="15" opacity="0.56">ユ</tspan>
+      <tspan x="103" dy="15" opacity="0.44">3</tspan>
+      <tspan x="103" dy="15" opacity="0.33">ヲ</tspan>
+      <tspan x="103" dy="15" opacity="0.22">ウ</tspan>
+      <tspan x="103" dy="15" opacity="0.15">D</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="6.78s" begin="-3.16s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="119" y="0">
+      <tspan x="119" dy="0" opacity="1.00">フ</tspan>
+      <tspan x="119" dy="15" opacity="0.90">ユ</tspan>
+      <tspan x="119" dy="15" opacity="0.80">チ</tspan>
+      <tspan x="119" dy="15" opacity="0.70">ミ</tspan>
+      <tspan x="119" dy="15" opacity="0.60">4</tspan>
+      <tspan x="119" dy="15" opacity="0.50">4</tspan>
+      <tspan x="119" dy="15" opacity="0.40">P</tspan>
+      <tspan x="119" dy="15" opacity="0.30">サ</tspan>
+      <tspan x="119" dy="15" opacity="0.20">ニ</tspan>
+      <tspan x="119" dy="15" opacity="0.15">B</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -150" to="0 410"
+      dur="5.44s" begin="-3.04s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="140" y="0">
+      <tspan x="140" dy="0" opacity="1.00">9</tspan>
+      <tspan x="140" dy="15" opacity="0.94">ヤ</tspan>
+      <tspan x="140" dy="15" opacity="0.88">7</tspan>
+      <tspan x="140" dy="15" opacity="0.81">ン</tspan>
+      <tspan x="140" dy="15" opacity="0.75">2</tspan>
+      <tspan x="140" dy="15" opacity="0.69">ホ</tspan>
+      <tspan x="140" dy="15" opacity="0.62">ト</tspan>
+      <tspan x="140" dy="15" opacity="0.56">サ</tspan>
+      <tspan x="140" dy="15" opacity="0.50">ヌ</tspan>
+      <tspan x="140" dy="15" opacity="0.44">ト</tspan>
+      <tspan x="140" dy="15" opacity="0.38">ホ</tspan>
+      <tspan x="140" dy="15" opacity="0.31">ホ</tspan>
+      <tspan x="140" dy="15" opacity="0.25">イ</tspan>
+      <tspan x="140" dy="15" opacity="0.19">J</tspan>
+      <tspan x="140" dy="15" opacity="0.15">ネ</tspan>
+      <tspan x="140" dy="15" opacity="0.15">メ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -240" to="0 500"
+      dur="4.11s" begin="-5.18s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="159" y="0">
+      <tspan x="159" dy="0" opacity="1.00">ル</tspan>
+      <tspan x="159" dy="15" opacity="0.88">チ</tspan>
+      <tspan x="159" dy="15" opacity="0.75">E</tspan>
+      <tspan x="159" dy="15" opacity="0.62">キ</tspan>
+      <tspan x="159" dy="15" opacity="0.50">C</tspan>
+      <tspan x="159" dy="15" opacity="0.38">4</tspan>
+      <tspan x="159" dy="15" opacity="0.25">4</tspan>
+      <tspan x="159" dy="15" opacity="0.15">5</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -120" to="0 380"
+      dur="3.58s" begin="-2.79s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="180" y="0">
+      <tspan x="180" dy="0" opacity="1.00">ノ</tspan>
+      <tspan x="180" dy="15" opacity="0.89">ケ</tspan>
+      <tspan x="180" dy="15" opacity="0.78">ヒ</tspan>
+      <tspan x="180" dy="15" opacity="0.67">A</tspan>
+      <tspan x="180" dy="15" opacity="0.56">ナ</tspan>
+      <tspan x="180" dy="15" opacity="0.44">ソ</tspan>
+      <tspan x="180" dy="15" opacity="0.33">ワ</tspan>
+      <tspan x="180" dy="15" opacity="0.22">キ</tspan>
+      <tspan x="180" dy="15" opacity="0.15">セ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="4.93s" begin="-3.6s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="197" y="0">
+      <tspan x="197" dy="0" opacity="1.00">エ</tspan>
+      <tspan x="197" dy="15" opacity="0.90">コ</tspan>
+      <tspan x="197" dy="15" opacity="0.80">ヒ</tspan>
+      <tspan x="197" dy="15" opacity="0.70">2</tspan>
+      <tspan x="197" dy="15" opacity="0.60">ト</tspan>
+      <tspan x="197" dy="15" opacity="0.50">ム</tspan>
+      <tspan x="197" dy="15" opacity="0.40">ヲ</tspan>
+      <tspan x="197" dy="15" opacity="0.30">0</tspan>
+      <tspan x="197" dy="15" opacity="0.20">E</tspan>
+      <tspan x="197" dy="15" opacity="0.15">タ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -150" to="0 410"
+      dur="5.15s" begin="-0.31s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="217" y="0">
+      <tspan x="217" dy="0" opacity="1.00">F</tspan>
+      <tspan x="217" dy="15" opacity="0.93">リ</tspan>
+      <tspan x="217" dy="15" opacity="0.87">サ</tspan>
+      <tspan x="217" dy="15" opacity="0.80">テ</tspan>
+      <tspan x="217" dy="15" opacity="0.73">セ</tspan>
+      <tspan x="217" dy="15" opacity="0.67">ワ</tspan>
+      <tspan x="217" dy="15" opacity="0.60">メ</tspan>
+      <tspan x="217" dy="15" opacity="0.53">F</tspan>
+      <tspan x="217" dy="15" opacity="0.47">ナ</tspan>
+      <tspan x="217" dy="15" opacity="0.40">D</tspan>
+      <tspan x="217" dy="15" opacity="0.33">ウ</tspan>
+      <tspan x="217" dy="15" opacity="0.27">ヒ</tspan>
+      <tspan x="217" dy="15" opacity="0.20">I</tspan>
+      <tspan x="217" dy="15" opacity="0.15">0</tspan>
+      <tspan x="217" dy="15" opacity="0.15">テ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="6.97s" begin="-3.2s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="242" y="0">
+      <tspan x="242" dy="0" opacity="1.00">ラ</tspan>
+      <tspan x="242" dy="15" opacity="0.94">シ</tspan>
+      <tspan x="242" dy="15" opacity="0.88">メ</tspan>
+      <tspan x="242" dy="15" opacity="0.81">D</tspan>
+      <tspan x="242" dy="15" opacity="0.75">0</tspan>
+      <tspan x="242" dy="15" opacity="0.69">ニ</tspan>
+      <tspan x="242" dy="15" opacity="0.62">ン</tspan>
+      <tspan x="242" dy="15" opacity="0.56">ヘ</tspan>
+      <tspan x="242" dy="15" opacity="0.50">N</tspan>
+      <tspan x="242" dy="15" opacity="0.44">A</tspan>
+      <tspan x="242" dy="15" opacity="0.38">M</tspan>
+      <tspan x="242" dy="15" opacity="0.31">ロ</tspan>
+      <tspan x="242" dy="15" opacity="0.25">ヘ</tspan>
+      <tspan x="242" dy="15" opacity="0.19">ノ</tspan>
+      <tspan x="242" dy="15" opacity="0.15">マ</tspan>
+      <tspan x="242" dy="15" opacity="0.15">5</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -240" to="0 500"
+      dur="6.66s" begin="-1.45s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="262" y="0">
+      <tspan x="262" dy="0" opacity="1.00">エ</tspan>
+      <tspan x="262" dy="15" opacity="0.91">エ</tspan>
+      <tspan x="262" dy="15" opacity="0.82">ヤ</tspan>
+      <tspan x="262" dy="15" opacity="0.73">E</tspan>
+      <tspan x="262" dy="15" opacity="0.64">メ</tspan>
+      <tspan x="262" dy="15" opacity="0.55">ノ</tspan>
+      <tspan x="262" dy="15" opacity="0.45">ヲ</tspan>
+      <tspan x="262" dy="15" opacity="0.36">B</tspan>
+      <tspan x="262" dy="15" opacity="0.27">ヲ</tspan>
+      <tspan x="262" dy="15" opacity="0.18">0</tspan>
+      <tspan x="262" dy="15" opacity="0.15">サ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="3.8s" begin="-3.04s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="278" y="0">
+      <tspan x="278" dy="0" opacity="1.00">ヒ</tspan>
+      <tspan x="278" dy="15" opacity="0.89">F</tspan>
+      <tspan x="278" dy="15" opacity="0.78">ア</tspan>
+      <tspan x="278" dy="15" opacity="0.67">F</tspan>
+      <tspan x="278" dy="15" opacity="0.56">ヲ</tspan>
+      <tspan x="278" dy="15" opacity="0.44">サ</tspan>
+      <tspan x="278" dy="15" opacity="0.33">タ</tspan>
+      <tspan x="278" dy="15" opacity="0.22">3</tspan>
+      <tspan x="278" dy="15" opacity="0.15">ハ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="3.91s" begin="-4.82s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="300" y="0">
+      <tspan x="300" dy="0" opacity="1.00">シ</tspan>
+      <tspan x="300" dy="15" opacity="0.90">4</tspan>
+      <tspan x="300" dy="15" opacity="0.80">D</tspan>
+      <tspan x="300" dy="15" opacity="0.70">5</tspan>
+      <tspan x="300" dy="15" opacity="0.60">サ</tspan>
+      <tspan x="300" dy="15" opacity="0.50">ナ</tspan>
+      <tspan x="300" dy="15" opacity="0.40">ニ</tspan>
+      <tspan x="300" dy="15" opacity="0.30">チ</tspan>
+      <tspan x="300" dy="15" opacity="0.20">エ</tspan>
+      <tspan x="300" dy="15" opacity="0.15">ト</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -150" to="0 410"
+      dur="4.74s" begin="-2.18s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="321" y="0">
+      <tspan x="321" dy="0" opacity="1.00">E</tspan>
+      <tspan x="321" dy="15" opacity="0.93">ヲ</tspan>
+      <tspan x="321" dy="15" opacity="0.87">ト</tspan>
+      <tspan x="321" dy="15" opacity="0.80">チ</tspan>
+      <tspan x="321" dy="15" opacity="0.73">ウ</tspan>
+      <tspan x="321" dy="15" opacity="0.67">イ</tspan>
+      <tspan x="321" dy="15" opacity="0.60">セ</tspan>
+      <tspan x="321" dy="15" opacity="0.53">I</tspan>
+      <tspan x="321" dy="15" opacity="0.47">ツ</tspan>
+      <tspan x="321" dy="15" opacity="0.40">9</tspan>
+      <tspan x="321" dy="15" opacity="0.33">ノ</tspan>
+      <tspan x="321" dy="15" opacity="0.27">フ</tspan>
+      <tspan x="321" dy="15" opacity="0.20">エ</tspan>
+      <tspan x="321" dy="15" opacity="0.15">ム</tspan>
+      <tspan x="321" dy="15" opacity="0.15">フ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="6.23s" begin="-5.12s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="339" y="0">
+      <tspan x="339" dy="0" opacity="1.00">メ</tspan>
+      <tspan x="339" dy="15" opacity="0.94">A</tspan>
+      <tspan x="339" dy="15" opacity="0.88">7</tspan>
+      <tspan x="339" dy="15" opacity="0.81">チ</tspan>
+      <tspan x="339" dy="15" opacity="0.75">ク</tspan>
+      <tspan x="339" dy="15" opacity="0.69">ン</tspan>
+      <tspan x="339" dy="15" opacity="0.62">C</tspan>
+      <tspan x="339" dy="15" opacity="0.56">D</tspan>
+      <tspan x="339" dy="15" opacity="0.50">7</tspan>
+      <tspan x="339" dy="15" opacity="0.44">M</tspan>
+      <tspan x="339" dy="15" opacity="0.38">チ</tspan>
+      <tspan x="339" dy="15" opacity="0.31">N</tspan>
+      <tspan x="339" dy="15" opacity="0.25">ト</tspan>
+      <tspan x="339" dy="15" opacity="0.19">I</tspan>
+      <tspan x="339" dy="15" opacity="0.15">E</tspan>
+      <tspan x="339" dy="15" opacity="0.15">ウ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -240" to="0 500"
+      dur="3.96s" begin="-2.48s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="363" y="0">
+      <tspan x="363" dy="0" opacity="1.00">ト</tspan>
+      <tspan x="363" dy="15" opacity="0.93">ヌ</tspan>
+      <tspan x="363" dy="15" opacity="0.87">テ</tspan>
+      <tspan x="363" dy="15" opacity="0.80">E</tspan>
+      <tspan x="363" dy="15" opacity="0.73">タ</tspan>
+      <tspan x="363" dy="15" opacity="0.67">ク</tspan>
+      <tspan x="363" dy="15" opacity="0.60">レ</tspan>
+      <tspan x="363" dy="15" opacity="0.53">D</tspan>
+      <tspan x="363" dy="15" opacity="0.47">I</tspan>
+      <tspan x="363" dy="15" opacity="0.40">F</tspan>
+      <tspan x="363" dy="15" opacity="0.33">セ</tspan>
+      <tspan x="363" dy="15" opacity="0.27">ク</tspan>
+      <tspan x="363" dy="15" opacity="0.20">ミ</tspan>
+      <tspan x="363" dy="15" opacity="0.15">ノ</tspan>
+      <tspan x="363" dy="15" opacity="0.15">ヤ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="6.11s" begin="-2.35s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="377" y="0">
+      <tspan x="377" dy="0" opacity="1.00">ケ</tspan>
+      <tspan x="377" dy="15" opacity="0.89">A</tspan>
+      <tspan x="377" dy="15" opacity="0.78">レ</tspan>
+      <tspan x="377" dy="15" opacity="0.67">M</tspan>
+      <tspan x="377" dy="15" opacity="0.56">E</tspan>
+      <tspan x="377" dy="15" opacity="0.44">ハ</tspan>
+      <tspan x="377" dy="15" opacity="0.33">ヤ</tspan>
+      <tspan x="377" dy="15" opacity="0.22">B</tspan>
+      <tspan x="377" dy="15" opacity="0.15">E</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="5.03s" begin="-2.63s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="401" y="0">
+      <tspan x="401" dy="0" opacity="1.00">D</tspan>
+      <tspan x="401" dy="15" opacity="0.93">メ</tspan>
+      <tspan x="401" dy="15" opacity="0.87">ハ</tspan>
+      <tspan x="401" dy="15" opacity="0.80">B</tspan>
+      <tspan x="401" dy="15" opacity="0.73">ツ</tspan>
+      <tspan x="401" dy="15" opacity="0.67">7</tspan>
+      <tspan x="401" dy="15" opacity="0.60">タ</tspan>
+      <tspan x="401" dy="15" opacity="0.53">4</tspan>
+      <tspan x="401" dy="15" opacity="0.47">A</tspan>
+      <tspan x="401" dy="15" opacity="0.40">ル</tspan>
+      <tspan x="401" dy="15" opacity="0.33">コ</tspan>
+      <tspan x="401" dy="15" opacity="0.27">マ</tspan>
+      <tspan x="401" dy="15" opacity="0.20">8</tspan>
+      <tspan x="401" dy="15" opacity="0.15">コ</tspan>
+      <tspan x="401" dy="15" opacity="0.15">フ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="5.03s" begin="-4.51s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="422" y="0">
+      <tspan x="422" dy="0" opacity="1.00">ト</tspan>
+      <tspan x="422" dy="15" opacity="0.92">0</tspan>
+      <tspan x="422" dy="15" opacity="0.83">テ</tspan>
+      <tspan x="422" dy="15" opacity="0.75">ム</tspan>
+      <tspan x="422" dy="15" opacity="0.67">ツ</tspan>
+      <tspan x="422" dy="15" opacity="0.58">D</tspan>
+      <tspan x="422" dy="15" opacity="0.50">ヘ</tspan>
+      <tspan x="422" dy="15" opacity="0.42">ス</tspan>
+      <tspan x="422" dy="15" opacity="0.33">4</tspan>
+      <tspan x="422" dy="15" opacity="0.25">J</tspan>
+      <tspan x="422" dy="15" opacity="0.17">ナ</tspan>
+      <tspan x="422" dy="15" opacity="0.15">ヘ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -180" to="0 440"
+      dur="6.14s" begin="-0.62s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="438" y="0">
+      <tspan x="438" dy="0" opacity="1.00">7</tspan>
+      <tspan x="438" dy="15" opacity="0.93">ハ</tspan>
+      <tspan x="438" dy="15" opacity="0.86">ン</tspan>
+      <tspan x="438" dy="15" opacity="0.79">ル</tspan>
+      <tspan x="438" dy="15" opacity="0.71">シ</tspan>
+      <tspan x="438" dy="15" opacity="0.64">0</tspan>
+      <tspan x="438" dy="15" opacity="0.57">ウ</tspan>
+      <tspan x="438" dy="15" opacity="0.50">ワ</tspan>
+      <tspan x="438" dy="15" opacity="0.43">C</tspan>
+      <tspan x="438" dy="15" opacity="0.36">A</tspan>
+      <tspan x="438" dy="15" opacity="0.29">ウ</tspan>
+      <tspan x="438" dy="15" opacity="0.21">3</tspan>
+      <tspan x="438" dy="15" opacity="0.15">ロ</tspan>
+      <tspan x="438" dy="15" opacity="0.15">D</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="6.98s" begin="-3.58s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="461" y="0">
+      <tspan x="461" dy="0" opacity="1.00">ホ</tspan>
+      <tspan x="461" dy="15" opacity="0.92">セ</tspan>
+      <tspan x="461" dy="15" opacity="0.83">サ</tspan>
+      <tspan x="461" dy="15" opacity="0.75">メ</tspan>
+      <tspan x="461" dy="15" opacity="0.67">モ</tspan>
+      <tspan x="461" dy="15" opacity="0.58">カ</tspan>
+      <tspan x="461" dy="15" opacity="0.50">ネ</tspan>
+      <tspan x="461" dy="15" opacity="0.42">モ</tspan>
+      <tspan x="461" dy="15" opacity="0.33">チ</tspan>
+      <tspan x="461" dy="15" opacity="0.25">8</tspan>
+      <tspan x="461" dy="15" opacity="0.17">メ</tspan>
+      <tspan x="461" dy="15" opacity="0.15">5</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -180" to="0 440"
+      dur="5.05s" begin="-5.61s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="478" y="0">
+      <tspan x="478" dy="0" opacity="1.00">レ</tspan>
+      <tspan x="478" dy="15" opacity="0.94">シ</tspan>
+      <tspan x="478" dy="15" opacity="0.88">ヤ</tspan>
+      <tspan x="478" dy="15" opacity="0.81">ク</tspan>
+      <tspan x="478" dy="15" opacity="0.75">ネ</tspan>
+      <tspan x="478" dy="15" opacity="0.69">8</tspan>
+      <tspan x="478" dy="15" opacity="0.62">コ</tspan>
+      <tspan x="478" dy="15" opacity="0.56">モ</tspan>
+      <tspan x="478" dy="15" opacity="0.50">ウ</tspan>
+      <tspan x="478" dy="15" opacity="0.44">シ</tspan>
+      <tspan x="478" dy="15" opacity="0.38">メ</tspan>
+      <tspan x="478" dy="15" opacity="0.31">サ</tspan>
+      <tspan x="478" dy="15" opacity="0.25">ヘ</tspan>
+      <tspan x="478" dy="15" opacity="0.19">ケ</tspan>
+      <tspan x="478" dy="15" opacity="0.15">メ</tspan>
+      <tspan x="478" dy="15" opacity="0.15">タ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -240" to="0 500"
+      dur="6.68s" begin="-2.58s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="500" y="0">
+      <tspan x="500" dy="0" opacity="1.00">モ</tspan>
+      <tspan x="500" dy="15" opacity="0.88">チ</tspan>
+      <tspan x="500" dy="15" opacity="0.75">カ</tspan>
+      <tspan x="500" dy="15" opacity="0.62">I</tspan>
+      <tspan x="500" dy="15" opacity="0.50">マ</tspan>
+      <tspan x="500" dy="15" opacity="0.38">ソ</tspan>
+      <tspan x="500" dy="15" opacity="0.25">ナ</tspan>
+      <tspan x="500" dy="15" opacity="0.15">メ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -120" to="0 380"
+      dur="4.36s" begin="-2.68s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="517" y="0">
+      <tspan x="517" dy="0" opacity="1.00">リ</tspan>
+      <tspan x="517" dy="15" opacity="0.90">I</tspan>
+      <tspan x="517" dy="15" opacity="0.80">ヒ</tspan>
+      <tspan x="517" dy="15" opacity="0.70">ヨ</tspan>
+      <tspan x="517" dy="15" opacity="0.60">B</tspan>
+      <tspan x="517" dy="15" opacity="0.50">M</tspan>
+      <tspan x="517" dy="15" opacity="0.40">ヌ</tspan>
+      <tspan x="517" dy="15" opacity="0.30">モ</tspan>
+      <tspan x="517" dy="15" opacity="0.20">ヲ</tspan>
+      <tspan x="517" dy="15" opacity="0.15">ウ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -150" to="0 410"
+      dur="3.81s" begin="-4.13s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="539" y="0">
+      <tspan x="539" dy="0" opacity="1.00">ノ</tspan>
+      <tspan x="539" dy="15" opacity="0.88">E</tspan>
+      <tspan x="539" dy="15" opacity="0.75">E</tspan>
+      <tspan x="539" dy="15" opacity="0.62">ミ</tspan>
+      <tspan x="539" dy="15" opacity="0.50">B</tspan>
+      <tspan x="539" dy="15" opacity="0.38">セ</tspan>
+      <tspan x="539" dy="15" opacity="0.25">9</tspan>
+      <tspan x="539" dy="15" opacity="0.15">P</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -120" to="0 380"
+      dur="3.06s" begin="-1.6s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="561" y="0">
+      <tspan x="561" dy="0" opacity="1.00">フ</tspan>
+      <tspan x="561" dy="15" opacity="0.93">ホ</tspan>
+      <tspan x="561" dy="15" opacity="0.86">ワ</tspan>
+      <tspan x="561" dy="15" opacity="0.79">ハ</tspan>
+      <tspan x="561" dy="15" opacity="0.71">ツ</tspan>
+      <tspan x="561" dy="15" opacity="0.64">5</tspan>
+      <tspan x="561" dy="15" opacity="0.57">ヲ</tspan>
+      <tspan x="561" dy="15" opacity="0.50">キ</tspan>
+      <tspan x="561" dy="15" opacity="0.43">チ</tspan>
+      <tspan x="561" dy="15" opacity="0.36">イ</tspan>
+      <tspan x="561" dy="15" opacity="0.29">コ</tspan>
+      <tspan x="561" dy="15" opacity="0.21">ム</tspan>
+      <tspan x="561" dy="15" opacity="0.15">9</tspan>
+      <tspan x="561" dy="15" opacity="0.15">ナ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="6.88s" begin="-4.15s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="577" y="0">
+      <tspan x="577" dy="0" opacity="1.00">M</tspan>
+      <tspan x="577" dy="15" opacity="0.89">ユ</tspan>
+      <tspan x="577" dy="15" opacity="0.78">ミ</tspan>
+      <tspan x="577" dy="15" opacity="0.67">ヨ</tspan>
+      <tspan x="577" dy="15" opacity="0.56">カ</tspan>
+      <tspan x="577" dy="15" opacity="0.44">C</tspan>
+      <tspan x="577" dy="15" opacity="0.33">ネ</tspan>
+      <tspan x="577" dy="15" opacity="0.22">ナ</tspan>
+      <tspan x="577" dy="15" opacity="0.15">モ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="5.66s" begin="-3.71s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="600" y="0">
+      <tspan x="600" dy="0" opacity="1.00">レ</tspan>
+      <tspan x="600" dy="15" opacity="0.88">ミ</tspan>
+      <tspan x="600" dy="15" opacity="0.75">オ</tspan>
+      <tspan x="600" dy="15" opacity="0.62">リ</tspan>
+      <tspan x="600" dy="15" opacity="0.50">フ</tspan>
+      <tspan x="600" dy="15" opacity="0.38">ン</tspan>
+      <tspan x="600" dy="15" opacity="0.25">ネ</tspan>
+      <tspan x="600" dy="15" opacity="0.15">ア</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -120" to="0 380"
+      dur="4.05s" begin="-0.23s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="619" y="0">
+      <tspan x="619" dy="0" opacity="1.00">ハ</tspan>
+      <tspan x="619" dy="15" opacity="0.93">ミ</tspan>
+      <tspan x="619" dy="15" opacity="0.86">M</tspan>
+      <tspan x="619" dy="15" opacity="0.79">ア</tspan>
+      <tspan x="619" dy="15" opacity="0.71">シ</tspan>
+      <tspan x="619" dy="15" opacity="0.64">メ</tspan>
+      <tspan x="619" dy="15" opacity="0.57">シ</tspan>
+      <tspan x="619" dy="15" opacity="0.50">テ</tspan>
+      <tspan x="619" dy="15" opacity="0.43">5</tspan>
+      <tspan x="619" dy="15" opacity="0.36">カ</tspan>
+      <tspan x="619" dy="15" opacity="0.29">4</tspan>
+      <tspan x="619" dy="15" opacity="0.21">ウ</tspan>
+      <tspan x="619" dy="15" opacity="0.15">ラ</tspan>
+      <tspan x="619" dy="15" opacity="0.15">ラ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="3.34s" begin="-4.33s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="642" y="0">
+      <tspan x="642" dy="0" opacity="1.00">ト</tspan>
+      <tspan x="642" dy="15" opacity="0.91">3</tspan>
+      <tspan x="642" dy="15" opacity="0.82">レ</tspan>
+      <tspan x="642" dy="15" opacity="0.73">P</tspan>
+      <tspan x="642" dy="15" opacity="0.64">ト</tspan>
+      <tspan x="642" dy="15" opacity="0.55">ユ</tspan>
+      <tspan x="642" dy="15" opacity="0.45">テ</tspan>
+      <tspan x="642" dy="15" opacity="0.36">カ</tspan>
+      <tspan x="642" dy="15" opacity="0.27">E</tspan>
+      <tspan x="642" dy="15" opacity="0.18">8</tspan>
+      <tspan x="642" dy="15" opacity="0.15">M</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="3.34s" begin="-0.25s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="658" y="0">
+      <tspan x="658" dy="0" opacity="1.00">ウ</tspan>
+      <tspan x="658" dy="15" opacity="0.94">ホ</tspan>
+      <tspan x="658" dy="15" opacity="0.88">サ</tspan>
+      <tspan x="658" dy="15" opacity="0.81">エ</tspan>
+      <tspan x="658" dy="15" opacity="0.75">カ</tspan>
+      <tspan x="658" dy="15" opacity="0.69">ツ</tspan>
+      <tspan x="658" dy="15" opacity="0.62">0</tspan>
+      <tspan x="658" dy="15" opacity="0.56">セ</tspan>
+      <tspan x="658" dy="15" opacity="0.50">2</tspan>
+      <tspan x="658" dy="15" opacity="0.44">B</tspan>
+      <tspan x="658" dy="15" opacity="0.38">キ</tspan>
+      <tspan x="658" dy="15" opacity="0.31">ウ</tspan>
+      <tspan x="658" dy="15" opacity="0.25">N</tspan>
+      <tspan x="658" dy="15" opacity="0.19">ミ</tspan>
+      <tspan x="658" dy="15" opacity="0.15">J</tspan>
+      <tspan x="658" dy="15" opacity="0.15">メ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -240" to="0 500"
+      dur="6.01s" begin="-2.59s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="677" y="0">
+      <tspan x="677" dy="0" opacity="1.00">M</tspan>
+      <tspan x="677" dy="15" opacity="0.93">N</tspan>
+      <tspan x="677" dy="15" opacity="0.87">シ</tspan>
+      <tspan x="677" dy="15" opacity="0.80">I</tspan>
+      <tspan x="677" dy="15" opacity="0.73">ケ</tspan>
+      <tspan x="677" dy="15" opacity="0.67">E</tspan>
+      <tspan x="677" dy="15" opacity="0.60">ム</tspan>
+      <tspan x="677" dy="15" opacity="0.53">コ</tspan>
+      <tspan x="677" dy="15" opacity="0.47">メ</tspan>
+      <tspan x="677" dy="15" opacity="0.40">マ</tspan>
+      <tspan x="677" dy="15" opacity="0.33">ヒ</tspan>
+      <tspan x="677" dy="15" opacity="0.27">ホ</tspan>
+      <tspan x="677" dy="15" opacity="0.20">C</tspan>
+      <tspan x="677" dy="15" opacity="0.15">P</tspan>
+      <tspan x="677" dy="15" opacity="0.15">2</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="6.19s" begin="-1.51s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="697" y="0">
+      <tspan x="697" dy="0" opacity="1.00">カ</tspan>
+      <tspan x="697" dy="15" opacity="0.93">ハ</tspan>
+      <tspan x="697" dy="15" opacity="0.87">コ</tspan>
+      <tspan x="697" dy="15" opacity="0.80">テ</tspan>
+      <tspan x="697" dy="15" opacity="0.73">ロ</tspan>
+      <tspan x="697" dy="15" opacity="0.67">ム</tspan>
+      <tspan x="697" dy="15" opacity="0.60">ラ</tspan>
+      <tspan x="697" dy="15" opacity="0.53">ツ</tspan>
+      <tspan x="697" dy="15" opacity="0.47">イ</tspan>
+      <tspan x="697" dy="15" opacity="0.40">F</tspan>
+      <tspan x="697" dy="15" opacity="0.33">ク</tspan>
+      <tspan x="697" dy="15" opacity="0.27">J</tspan>
+      <tspan x="697" dy="15" opacity="0.20">モ</tspan>
+      <tspan x="697" dy="15" opacity="0.15">ス</tspan>
+      <tspan x="697" dy="15" opacity="0.15">フ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="6.64s" begin="-4.28s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="722" y="0">
+      <tspan x="722" dy="0" opacity="1.00">D</tspan>
+      <tspan x="722" dy="15" opacity="0.93">D</tspan>
+      <tspan x="722" dy="15" opacity="0.87">D</tspan>
+      <tspan x="722" dy="15" opacity="0.80">タ</tspan>
+      <tspan x="722" dy="15" opacity="0.73">ハ</tspan>
+      <tspan x="722" dy="15" opacity="0.67">リ</tspan>
+      <tspan x="722" dy="15" opacity="0.60">サ</tspan>
+      <tspan x="722" dy="15" opacity="0.53">E</tspan>
+      <tspan x="722" dy="15" opacity="0.47">ウ</tspan>
+      <tspan x="722" dy="15" opacity="0.40">ヨ</tspan>
+      <tspan x="722" dy="15" opacity="0.33">C</tspan>
+      <tspan x="722" dy="15" opacity="0.27">コ</tspan>
+      <tspan x="722" dy="15" opacity="0.20">M</tspan>
+      <tspan x="722" dy="15" opacity="0.15">B</tspan>
+      <tspan x="722" dy="15" opacity="0.15">モ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="4.16s" begin="-2.9s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="740" y="0">
+      <tspan x="740" dy="0" opacity="1.00">コ</tspan>
+      <tspan x="740" dy="15" opacity="0.91">シ</tspan>
+      <tspan x="740" dy="15" opacity="0.82">テ</tspan>
+      <tspan x="740" dy="15" opacity="0.73">I</tspan>
+      <tspan x="740" dy="15" opacity="0.64">メ</tspan>
+      <tspan x="740" dy="15" opacity="0.55">0</tspan>
+      <tspan x="740" dy="15" opacity="0.45">チ</tspan>
+      <tspan x="740" dy="15" opacity="0.36">E</tspan>
+      <tspan x="740" dy="15" opacity="0.27">ヤ</tspan>
+      <tspan x="740" dy="15" opacity="0.18">ソ</tspan>
+      <tspan x="740" dy="15" opacity="0.15">0</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="6.67s" begin="-0.42s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="758" y="0">
+      <tspan x="758" dy="0" opacity="1.00">エ</tspan>
+      <tspan x="758" dy="15" opacity="0.93">ナ</tspan>
+      <tspan x="758" dy="15" opacity="0.87">ア</tspan>
+      <tspan x="758" dy="15" opacity="0.80">J</tspan>
+      <tspan x="758" dy="15" opacity="0.73">B</tspan>
+      <tspan x="758" dy="15" opacity="0.67">5</tspan>
+      <tspan x="758" dy="15" opacity="0.60">ラ</tspan>
+      <tspan x="758" dy="15" opacity="0.53">テ</tspan>
+      <tspan x="758" dy="15" opacity="0.47">7</tspan>
+      <tspan x="758" dy="15" opacity="0.40">ヲ</tspan>
+      <tspan x="758" dy="15" opacity="0.33">2</tspan>
+      <tspan x="758" dy="15" opacity="0.27">ル</tspan>
+      <tspan x="758" dy="15" opacity="0.20">タ</tspan>
+      <tspan x="758" dy="15" opacity="0.15">ロ</tspan>
+      <tspan x="758" dy="15" opacity="0.15">ア</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="6.59s" begin="-3.08s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="779" y="0">
+      <tspan x="779" dy="0" opacity="1.00">ハ</tspan>
+      <tspan x="779" dy="15" opacity="0.92">イ</tspan>
+      <tspan x="779" dy="15" opacity="0.85">ヨ</tspan>
+      <tspan x="779" dy="15" opacity="0.77">ム</tspan>
+      <tspan x="779" dy="15" opacity="0.69">1</tspan>
+      <tspan x="779" dy="15" opacity="0.62">ケ</tspan>
+      <tspan x="779" dy="15" opacity="0.54">4</tspan>
+      <tspan x="779" dy="15" opacity="0.46">3</tspan>
+      <tspan x="779" dy="15" opacity="0.38">コ</tspan>
+      <tspan x="779" dy="15" opacity="0.31">0</tspan>
+      <tspan x="779" dy="15" opacity="0.23">8</tspan>
+      <tspan x="779" dy="15" opacity="0.15">ヤ</tspan>
+      <tspan x="779" dy="15" opacity="0.15">キ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="6.36s" begin="-5.28s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="799" y="0">
+      <tspan x="799" dy="0" opacity="1.00">ト</tspan>
+      <tspan x="799" dy="15" opacity="0.89">ミ</tspan>
+      <tspan x="799" dy="15" opacity="0.78">モ</tspan>
+      <tspan x="799" dy="15" opacity="0.67">9</tspan>
+      <tspan x="799" dy="15" opacity="0.56">E</tspan>
+      <tspan x="799" dy="15" opacity="0.44">ル</tspan>
+      <tspan x="799" dy="15" opacity="0.33">ノ</tspan>
+      <tspan x="799" dy="15" opacity="0.22">1</tspan>
+      <tspan x="799" dy="15" opacity="0.15">8</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="3.21s" begin="-2.03s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="817" y="0">
+      <tspan x="817" dy="0" opacity="1.00">ヒ</tspan>
+      <tspan x="817" dy="15" opacity="0.93">サ</tspan>
+      <tspan x="817" dy="15" opacity="0.86">キ</tspan>
+      <tspan x="817" dy="15" opacity="0.79">6</tspan>
+      <tspan x="817" dy="15" opacity="0.71">B</tspan>
+      <tspan x="817" dy="15" opacity="0.64">ツ</tspan>
+      <tspan x="817" dy="15" opacity="0.57">ユ</tspan>
+      <tspan x="817" dy="15" opacity="0.50">J</tspan>
+      <tspan x="817" dy="15" opacity="0.43">キ</tspan>
+      <tspan x="817" dy="15" opacity="0.36">チ</tspan>
+      <tspan x="817" dy="15" opacity="0.29">ニ</tspan>
+      <tspan x="817" dy="15" opacity="0.21">E</tspan>
+      <tspan x="817" dy="15" opacity="0.15">7</tspan>
+      <tspan x="817" dy="15" opacity="0.15">ワ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="6.65s" begin="-0.36s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="839" y="0">
+      <tspan x="839" dy="0" opacity="1.00">メ</tspan>
+      <tspan x="839" dy="15" opacity="0.92">5</tspan>
+      <tspan x="839" dy="15" opacity="0.83">マ</tspan>
+      <tspan x="839" dy="15" opacity="0.75">ラ</tspan>
+      <tspan x="839" dy="15" opacity="0.67">F</tspan>
+      <tspan x="839" dy="15" opacity="0.58">4</tspan>
+      <tspan x="839" dy="15" opacity="0.50">タ</tspan>
+      <tspan x="839" dy="15" opacity="0.42">ニ</tspan>
+      <tspan x="839" dy="15" opacity="0.33">ナ</tspan>
+      <tspan x="839" dy="15" opacity="0.25">コ</tspan>
+      <tspan x="839" dy="15" opacity="0.17">ヒ</tspan>
+      <tspan x="839" dy="15" opacity="0.15">M</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -180" to="0 440"
+      dur="4.02s" begin="-1.57s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="863" y="0">
+      <tspan x="863" dy="0" opacity="1.00">ロ</tspan>
+      <tspan x="863" dy="15" opacity="0.93">B</tspan>
+      <tspan x="863" dy="15" opacity="0.87">8</tspan>
+      <tspan x="863" dy="15" opacity="0.80">ツ</tspan>
+      <tspan x="863" dy="15" opacity="0.73">ノ</tspan>
+      <tspan x="863" dy="15" opacity="0.67">ミ</tspan>
+      <tspan x="863" dy="15" opacity="0.60">シ</tspan>
+      <tspan x="863" dy="15" opacity="0.53">ヌ</tspan>
+      <tspan x="863" dy="15" opacity="0.47">ワ</tspan>
+      <tspan x="863" dy="15" opacity="0.40">シ</tspan>
+      <tspan x="863" dy="15" opacity="0.33">ル</tspan>
+      <tspan x="863" dy="15" opacity="0.27">マ</tspan>
+      <tspan x="863" dy="15" opacity="0.20">1</tspan>
+      <tspan x="863" dy="15" opacity="0.15">メ</tspan>
+      <tspan x="863" dy="15" opacity="0.15">ハ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="5.2s" begin="-3.28s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="877" y="0">
+      <tspan x="877" dy="0" opacity="1.00">ヒ</tspan>
+      <tspan x="877" dy="15" opacity="0.93">2</tspan>
+      <tspan x="877" dy="15" opacity="0.86">モ</tspan>
+      <tspan x="877" dy="15" opacity="0.79">ワ</tspan>
+      <tspan x="877" dy="15" opacity="0.71">ク</tspan>
+      <tspan x="877" dy="15" opacity="0.64">P</tspan>
+      <tspan x="877" dy="15" opacity="0.57">ヤ</tspan>
+      <tspan x="877" dy="15" opacity="0.50">0</tspan>
+      <tspan x="877" dy="15" opacity="0.43">チ</tspan>
+      <tspan x="877" dy="15" opacity="0.36">M</tspan>
+      <tspan x="877" dy="15" opacity="0.29">I</tspan>
+      <tspan x="877" dy="15" opacity="0.21">フ</tspan>
+      <tspan x="877" dy="15" opacity="0.15">シ</tspan>
+      <tspan x="877" dy="15" opacity="0.15">モ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="4.53s" begin="-1.52s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="898" y="0">
+      <tspan x="898" dy="0" opacity="1.00">リ</tspan>
+      <tspan x="898" dy="15" opacity="0.93">ウ</tspan>
+      <tspan x="898" dy="15" opacity="0.86">チ</tspan>
+      <tspan x="898" dy="15" opacity="0.79">オ</tspan>
+      <tspan x="898" dy="15" opacity="0.71">8</tspan>
+      <tspan x="898" dy="15" opacity="0.64">E</tspan>
+      <tspan x="898" dy="15" opacity="0.57">J</tspan>
+      <tspan x="898" dy="15" opacity="0.50">ア</tspan>
+      <tspan x="898" dy="15" opacity="0.43">コ</tspan>
+      <tspan x="898" dy="15" opacity="0.36">4</tspan>
+      <tspan x="898" dy="15" opacity="0.29">I</tspan>
+      <tspan x="898" dy="15" opacity="0.21">D</tspan>
+      <tspan x="898" dy="15" opacity="0.15">B</tspan>
+      <tspan x="898" dy="15" opacity="0.15">ミ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="4.6s" begin="-3.32s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="923" y="0">
+      <tspan x="923" dy="0" opacity="1.00">セ</tspan>
+      <tspan x="923" dy="15" opacity="0.89">C</tspan>
+      <tspan x="923" dy="15" opacity="0.78">サ</tspan>
+      <tspan x="923" dy="15" opacity="0.67">カ</tspan>
+      <tspan x="923" dy="15" opacity="0.56">ア</tspan>
+      <tspan x="923" dy="15" opacity="0.44">チ</tspan>
+      <tspan x="923" dy="15" opacity="0.33">ホ</tspan>
+      <tspan x="923" dy="15" opacity="0.22">オ</tspan>
+      <tspan x="923" dy="15" opacity="0.15">ラ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="3.9s" begin="-5.09s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="938" y="0">
+      <tspan x="938" dy="0" opacity="1.00">ソ</tspan>
+      <tspan x="938" dy="15" opacity="0.92">ス</tspan>
+      <tspan x="938" dy="15" opacity="0.83">コ</tspan>
+      <tspan x="938" dy="15" opacity="0.75">ラ</tspan>
+      <tspan x="938" dy="15" opacity="0.67">I</tspan>
+      <tspan x="938" dy="15" opacity="0.58">ノ</tspan>
+      <tspan x="938" dy="15" opacity="0.50">3</tspan>
+      <tspan x="938" dy="15" opacity="0.42">メ</tspan>
+      <tspan x="938" dy="15" opacity="0.33">ヘ</tspan>
+      <tspan x="938" dy="15" opacity="0.25">ア</tspan>
+      <tspan x="938" dy="15" opacity="0.17">イ</tspan>
+      <tspan x="938" dy="15" opacity="0.15">N</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -180" to="0 440"
+      dur="5.11s" begin="-3.38s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="959" y="0">
+      <tspan x="959" dy="0" opacity="1.00">ミ</tspan>
+      <tspan x="959" dy="15" opacity="0.93">E</tspan>
+      <tspan x="959" dy="15" opacity="0.87">I</tspan>
+      <tspan x="959" dy="15" opacity="0.80">マ</tspan>
+      <tspan x="959" dy="15" opacity="0.73">ミ</tspan>
+      <tspan x="959" dy="15" opacity="0.67">エ</tspan>
+      <tspan x="959" dy="15" opacity="0.60">6</tspan>
+      <tspan x="959" dy="15" opacity="0.53">リ</tspan>
+      <tspan x="959" dy="15" opacity="0.47">ク</tspan>
+      <tspan x="959" dy="15" opacity="0.40">ウ</tspan>
+      <tspan x="959" dy="15" opacity="0.33">ノ</tspan>
+      <tspan x="959" dy="15" opacity="0.27">P</tspan>
+      <tspan x="959" dy="15" opacity="0.20">7</tspan>
+      <tspan x="959" dy="15" opacity="0.15">サ</tspan>
+      <tspan x="959" dy="15" opacity="0.15">ム</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="4.11s" begin="-4.1s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="978" y="0">
+      <tspan x="978" dy="0" opacity="1.00">オ</tspan>
+      <tspan x="978" dy="15" opacity="0.93">ワ</tspan>
+      <tspan x="978" dy="15" opacity="0.86">7</tspan>
+      <tspan x="978" dy="15" opacity="0.79">0</tspan>
+      <tspan x="978" dy="15" opacity="0.71">4</tspan>
+      <tspan x="978" dy="15" opacity="0.64">ハ</tspan>
+      <tspan x="978" dy="15" opacity="0.57">ア</tspan>
+      <tspan x="978" dy="15" opacity="0.50">ヨ</tspan>
+      <tspan x="978" dy="15" opacity="0.43">M</tspan>
+      <tspan x="978" dy="15" opacity="0.36">ケ</tspan>
+      <tspan x="978" dy="15" opacity="0.29">ヒ</tspan>
+      <tspan x="978" dy="15" opacity="0.21">P</tspan>
+      <tspan x="978" dy="15" opacity="0.15">ハ</tspan>
+      <tspan x="978" dy="15" opacity="0.15">リ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="6.7s" begin="-4.64s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1003" y="0">
+      <tspan x="1003" dy="0" opacity="1.00">ヨ</tspan>
+      <tspan x="1003" dy="15" opacity="0.91">セ</tspan>
+      <tspan x="1003" dy="15" opacity="0.82">P</tspan>
+      <tspan x="1003" dy="15" opacity="0.73">ネ</tspan>
+      <tspan x="1003" dy="15" opacity="0.64">ヘ</tspan>
+      <tspan x="1003" dy="15" opacity="0.55">J</tspan>
+      <tspan x="1003" dy="15" opacity="0.45">7</tspan>
+      <tspan x="1003" dy="15" opacity="0.36">ク</tspan>
+      <tspan x="1003" dy="15" opacity="0.27">テ</tspan>
+      <tspan x="1003" dy="15" opacity="0.18">4</tspan>
+      <tspan x="1003" dy="15" opacity="0.15">キ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="3.92s" begin="-4.67s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1018" y="0">
+      <tspan x="1018" dy="0" opacity="1.00">キ</tspan>
+      <tspan x="1018" dy="15" opacity="0.88">ク</tspan>
+      <tspan x="1018" dy="15" opacity="0.75">ネ</tspan>
+      <tspan x="1018" dy="15" opacity="0.62">4</tspan>
+      <tspan x="1018" dy="15" opacity="0.50">B</tspan>
+      <tspan x="1018" dy="15" opacity="0.38">ル</tspan>
+      <tspan x="1018" dy="15" opacity="0.25">ソ</tspan>
+      <tspan x="1018" dy="15" opacity="0.15">サ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -120" to="0 380"
+      dur="6.9s" begin="-5.15s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1038" y="0">
+      <tspan x="1038" dy="0" opacity="1.00">I</tspan>
+      <tspan x="1038" dy="15" opacity="0.92">D</tspan>
+      <tspan x="1038" dy="15" opacity="0.85">オ</tspan>
+      <tspan x="1038" dy="15" opacity="0.77">リ</tspan>
+      <tspan x="1038" dy="15" opacity="0.69">2</tspan>
+      <tspan x="1038" dy="15" opacity="0.62">1</tspan>
+      <tspan x="1038" dy="15" opacity="0.54">ロ</tspan>
+      <tspan x="1038" dy="15" opacity="0.46">A</tspan>
+      <tspan x="1038" dy="15" opacity="0.38">ニ</tspan>
+      <tspan x="1038" dy="15" opacity="0.31">セ</tspan>
+      <tspan x="1038" dy="15" opacity="0.23">ア</tspan>
+      <tspan x="1038" dy="15" opacity="0.15">サ</tspan>
+      <tspan x="1038" dy="15" opacity="0.15">ヤ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="3.76s" begin="-2.09s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1057" y="0">
+      <tspan x="1057" dy="0" opacity="1.00">ヒ</tspan>
+      <tspan x="1057" dy="15" opacity="0.92">2</tspan>
+      <tspan x="1057" dy="15" opacity="0.85">ン</tspan>
+      <tspan x="1057" dy="15" opacity="0.77">リ</tspan>
+      <tspan x="1057" dy="15" opacity="0.69">9</tspan>
+      <tspan x="1057" dy="15" opacity="0.62">シ</tspan>
+      <tspan x="1057" dy="15" opacity="0.54">キ</tspan>
+      <tspan x="1057" dy="15" opacity="0.46">E</tspan>
+      <tspan x="1057" dy="15" opacity="0.38">ハ</tspan>
+      <tspan x="1057" dy="15" opacity="0.31">1</tspan>
+      <tspan x="1057" dy="15" opacity="0.23">A</tspan>
+      <tspan x="1057" dy="15" opacity="0.15">B</tspan>
+      <tspan x="1057" dy="15" opacity="0.15">ノ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="4.68s" begin="-0.69s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1079" y="0">
+      <tspan x="1079" dy="0" opacity="1.00">6</tspan>
+      <tspan x="1079" dy="15" opacity="0.92">ミ</tspan>
+      <tspan x="1079" dy="15" opacity="0.85">5</tspan>
+      <tspan x="1079" dy="15" opacity="0.77">カ</tspan>
+      <tspan x="1079" dy="15" opacity="0.69">2</tspan>
+      <tspan x="1079" dy="15" opacity="0.62">オ</tspan>
+      <tspan x="1079" dy="15" opacity="0.54">D</tspan>
+      <tspan x="1079" dy="15" opacity="0.46">ケ</tspan>
+      <tspan x="1079" dy="15" opacity="0.38">ク</tspan>
+      <tspan x="1079" dy="15" opacity="0.31">ム</tspan>
+      <tspan x="1079" dy="15" opacity="0.23">ノ</tspan>
+      <tspan x="1079" dy="15" opacity="0.15">ケ</tspan>
+      <tspan x="1079" dy="15" opacity="0.15">ワ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="5.95s" begin="-3.15s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1099" y="0">
+      <tspan x="1099" dy="0" opacity="1.00">カ</tspan>
+      <tspan x="1099" dy="15" opacity="0.92">メ</tspan>
+      <tspan x="1099" dy="15" opacity="0.83">ル</tspan>
+      <tspan x="1099" dy="15" opacity="0.75">ヤ</tspan>
+      <tspan x="1099" dy="15" opacity="0.67">ラ</tspan>
+      <tspan x="1099" dy="15" opacity="0.58">ア</tspan>
+      <tspan x="1099" dy="15" opacity="0.50">ケ</tspan>
+      <tspan x="1099" dy="15" opacity="0.42">エ</tspan>
+      <tspan x="1099" dy="15" opacity="0.33">ホ</tspan>
+      <tspan x="1099" dy="15" opacity="0.25">セ</tspan>
+      <tspan x="1099" dy="15" opacity="0.17">E</tspan>
+      <tspan x="1099" dy="15" opacity="0.15">D</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -180" to="0 440"
+      dur="4.34s" begin="-0.28s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1123" y="0">
+      <tspan x="1123" dy="0" opacity="1.00">P</tspan>
+      <tspan x="1123" dy="15" opacity="0.93">チ</tspan>
+      <tspan x="1123" dy="15" opacity="0.86">P</tspan>
+      <tspan x="1123" dy="15" opacity="0.79">ネ</tspan>
+      <tspan x="1123" dy="15" opacity="0.71">イ</tspan>
+      <tspan x="1123" dy="15" opacity="0.64">ラ</tspan>
+      <tspan x="1123" dy="15" opacity="0.57">ト</tspan>
+      <tspan x="1123" dy="15" opacity="0.50">マ</tspan>
+      <tspan x="1123" dy="15" opacity="0.43">レ</tspan>
+      <tspan x="1123" dy="15" opacity="0.36">ル</tspan>
+      <tspan x="1123" dy="15" opacity="0.29">C</tspan>
+      <tspan x="1123" dy="15" opacity="0.21">0</tspan>
+      <tspan x="1123" dy="15" opacity="0.15">サ</tspan>
+      <tspan x="1123" dy="15" opacity="0.15">E</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="6.16s" begin="-0.52s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1138" y="0">
+      <tspan x="1138" dy="0" opacity="1.00">ケ</tspan>
+      <tspan x="1138" dy="15" opacity="0.93">オ</tspan>
+      <tspan x="1138" dy="15" opacity="0.86">F</tspan>
+      <tspan x="1138" dy="15" opacity="0.79">A</tspan>
+      <tspan x="1138" dy="15" opacity="0.71">レ</tspan>
+      <tspan x="1138" dy="15" opacity="0.64">ナ</tspan>
+      <tspan x="1138" dy="15" opacity="0.57">8</tspan>
+      <tspan x="1138" dy="15" opacity="0.50">セ</tspan>
+      <tspan x="1138" dy="15" opacity="0.43">コ</tspan>
+      <tspan x="1138" dy="15" opacity="0.36">メ</tspan>
+      <tspan x="1138" dy="15" opacity="0.29">サ</tspan>
+      <tspan x="1138" dy="15" opacity="0.21">ヒ</tspan>
+      <tspan x="1138" dy="15" opacity="0.15">ス</tspan>
+      <tspan x="1138" dy="15" opacity="0.15">7</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -210" to="0 470"
+      dur="6.01s" begin="-4.52s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1160" y="0">
+      <tspan x="1160" dy="0" opacity="1.00">C</tspan>
+      <tspan x="1160" dy="15" opacity="0.93">マ</tspan>
+      <tspan x="1160" dy="15" opacity="0.87">N</tspan>
+      <tspan x="1160" dy="15" opacity="0.80">タ</tspan>
+      <tspan x="1160" dy="15" opacity="0.73">ヨ</tspan>
+      <tspan x="1160" dy="15" opacity="0.67">ヨ</tspan>
+      <tspan x="1160" dy="15" opacity="0.60">ヤ</tspan>
+      <tspan x="1160" dy="15" opacity="0.53">モ</tspan>
+      <tspan x="1160" dy="15" opacity="0.47">1</tspan>
+      <tspan x="1160" dy="15" opacity="0.40">ム</tspan>
+      <tspan x="1160" dy="15" opacity="0.33">メ</tspan>
+      <tspan x="1160" dy="15" opacity="0.27">ハ</tspan>
+      <tspan x="1160" dy="15" opacity="0.20">A</tspan>
+      <tspan x="1160" dy="15" opacity="0.15">ミ</tspan>
+      <tspan x="1160" dy="15" opacity="0.15">ネ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="3.69s" begin="-5.2s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1178" y="0">
+      <tspan x="1178" dy="0" opacity="1.00">ノ</tspan>
+      <tspan x="1178" dy="15" opacity="0.91">レ</tspan>
+      <tspan x="1178" dy="15" opacity="0.82">ケ</tspan>
+      <tspan x="1178" dy="15" opacity="0.73">4</tspan>
+      <tspan x="1178" dy="15" opacity="0.64">ム</tspan>
+      <tspan x="1178" dy="15" opacity="0.55">ミ</tspan>
+      <tspan x="1178" dy="15" opacity="0.45">M</tspan>
+      <tspan x="1178" dy="15" opacity="0.36">I</tspan>
+      <tspan x="1178" dy="15" opacity="0.27">ホ</tspan>
+      <tspan x="1178" dy="15" opacity="0.18">ス</tspan>
+      <tspan x="1178" dy="15" opacity="0.15">D</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="3.61s" begin="-0.69s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1197" y="0">
+      <tspan x="1197" dy="0" opacity="1.00">ホ</tspan>
+      <tspan x="1197" dy="15" opacity="0.89">B</tspan>
+      <tspan x="1197" dy="15" opacity="0.78">1</tspan>
+      <tspan x="1197" dy="15" opacity="0.67">カ</tspan>
+      <tspan x="1197" dy="15" opacity="0.56">ヨ</tspan>
+      <tspan x="1197" dy="15" opacity="0.44">ホ</tspan>
+      <tspan x="1197" dy="15" opacity="0.33">タ</tspan>
+      <tspan x="1197" dy="15" opacity="0.22">キ</tspan>
+      <tspan x="1197" dy="15" opacity="0.15">ノ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="3.02s" begin="-0.7s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1221" y="0">
+      <tspan x="1221" dy="0" opacity="1.00">ヌ</tspan>
+      <tspan x="1221" dy="15" opacity="0.91">B</tspan>
+      <tspan x="1221" dy="15" opacity="0.82">メ</tspan>
+      <tspan x="1221" dy="15" opacity="0.73">ア</tspan>
+      <tspan x="1221" dy="15" opacity="0.64">セ</tspan>
+      <tspan x="1221" dy="15" opacity="0.55">ヲ</tspan>
+      <tspan x="1221" dy="15" opacity="0.45">フ</tspan>
+      <tspan x="1221" dy="15" opacity="0.36">オ</tspan>
+      <tspan x="1221" dy="15" opacity="0.27">1</tspan>
+      <tspan x="1221" dy="15" opacity="0.18">ワ</tspan>
+      <tspan x="1221" dy="15" opacity="0.15">テ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="6.72s" begin="-3.77s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1237" y="0">
+      <tspan x="1237" dy="0" opacity="1.00">ヒ</tspan>
+      <tspan x="1237" dy="15" opacity="0.91">イ</tspan>
+      <tspan x="1237" dy="15" opacity="0.82">レ</tspan>
+      <tspan x="1237" dy="15" opacity="0.73">6</tspan>
+      <tspan x="1237" dy="15" opacity="0.64">1</tspan>
+      <tspan x="1237" dy="15" opacity="0.55">ネ</tspan>
+      <tspan x="1237" dy="15" opacity="0.45">リ</tspan>
+      <tspan x="1237" dy="15" opacity="0.36">コ</tspan>
+      <tspan x="1237" dy="15" opacity="0.27">ヒ</tspan>
+      <tspan x="1237" dy="15" opacity="0.18">オ</tspan>
+      <tspan x="1237" dy="15" opacity="0.15">P</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -165" to="0 425"
+      dur="7.0s" begin="-5.77s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1261" y="0">
+      <tspan x="1261" dy="0" opacity="1.00">4</tspan>
+      <tspan x="1261" dy="15" opacity="0.93">ト</tspan>
+      <tspan x="1261" dy="15" opacity="0.87">N</tspan>
+      <tspan x="1261" dy="15" opacity="0.80">シ</tspan>
+      <tspan x="1261" dy="15" opacity="0.73">ナ</tspan>
+      <tspan x="1261" dy="15" opacity="0.67">4</tspan>
+      <tspan x="1261" dy="15" opacity="0.60">モ</tspan>
+      <tspan x="1261" dy="15" opacity="0.53">6</tspan>
+      <tspan x="1261" dy="15" opacity="0.47">ユ</tspan>
+      <tspan x="1261" dy="15" opacity="0.40">リ</tspan>
+      <tspan x="1261" dy="15" opacity="0.33">7</tspan>
+      <tspan x="1261" dy="15" opacity="0.27">キ</tspan>
+      <tspan x="1261" dy="15" opacity="0.20">リ</tspan>
+      <tspan x="1261" dy="15" opacity="0.15">ン</tspan>
+      <tspan x="1261" dy="15" opacity="0.15">7</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -225" to="0 485"
+      dur="3.25s" begin="-5.39s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1280" y="0">
+      <tspan x="1280" dy="0" opacity="1.00">0</tspan>
+      <tspan x="1280" dy="15" opacity="0.88">ハ</tspan>
+      <tspan x="1280" dy="15" opacity="0.75">4</tspan>
+      <tspan x="1280" dy="15" opacity="0.62">5</tspan>
+      <tspan x="1280" dy="15" opacity="0.50">ヒ</tspan>
+      <tspan x="1280" dy="15" opacity="0.38">ア</tspan>
+      <tspan x="1280" dy="15" opacity="0.25">9</tspan>
+      <tspan x="1280" dy="15" opacity="0.15">ナ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -120" to="0 380"
+      dur="6.46s" begin="-0.02s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1300" y="0">
+      <tspan x="1300" dy="0" opacity="1.00">0</tspan>
+      <tspan x="1300" dy="15" opacity="0.89">C</tspan>
+      <tspan x="1300" dy="15" opacity="0.78">ナ</tspan>
+      <tspan x="1300" dy="15" opacity="0.67">チ</tspan>
+      <tspan x="1300" dy="15" opacity="0.56">イ</tspan>
+      <tspan x="1300" dy="15" opacity="0.44">キ</tspan>
+      <tspan x="1300" dy="15" opacity="0.33">テ</tspan>
+      <tspan x="1300" dy="15" opacity="0.22">4</tspan>
+      <tspan x="1300" dy="15" opacity="0.15">シ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -135" to="0 395"
+      dur="6.28s" begin="-3.56s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1321" y="0">
+      <tspan x="1321" dy="0" opacity="1.00">ヲ</tspan>
+      <tspan x="1321" dy="15" opacity="0.92">ユ</tspan>
+      <tspan x="1321" dy="15" opacity="0.85">ナ</tspan>
+      <tspan x="1321" dy="15" opacity="0.77">D</tspan>
+      <tspan x="1321" dy="15" opacity="0.69">ニ</tspan>
+      <tspan x="1321" dy="15" opacity="0.62">ケ</tspan>
+      <tspan x="1321" dy="15" opacity="0.54">セ</tspan>
+      <tspan x="1321" dy="15" opacity="0.46">3</tspan>
+      <tspan x="1321" dy="15" opacity="0.38">J</tspan>
+      <tspan x="1321" dy="15" opacity="0.31">ハ</tspan>
+      <tspan x="1321" dy="15" opacity="0.23">ラ</tspan>
+      <tspan x="1321" dy="15" opacity="0.15">チ</tspan>
+      <tspan x="1321" dy="15" opacity="0.15">カ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="5.95s" begin="-4.97s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1340" y="0">
+      <tspan x="1340" dy="0" opacity="1.00">3</tspan>
+      <tspan x="1340" dy="15" opacity="0.92">シ</tspan>
+      <tspan x="1340" dy="15" opacity="0.85">ナ</tspan>
+      <tspan x="1340" dy="15" opacity="0.77">ヘ</tspan>
+      <tspan x="1340" dy="15" opacity="0.69">5</tspan>
+      <tspan x="1340" dy="15" opacity="0.62">ハ</tspan>
+      <tspan x="1340" dy="15" opacity="0.54">E</tspan>
+      <tspan x="1340" dy="15" opacity="0.46">ネ</tspan>
+      <tspan x="1340" dy="15" opacity="0.38">フ</tspan>
+      <tspan x="1340" dy="15" opacity="0.31">カ</tspan>
+      <tspan x="1340" dy="15" opacity="0.23">5</tspan>
+      <tspan x="1340" dy="15" opacity="0.15">D</tspan>
+      <tspan x="1340" dy="15" opacity="0.15">ナ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="3.21s" begin="-0.44s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1360" y="0">
+      <tspan x="1360" dy="0" opacity="1.00">ノ</tspan>
+      <tspan x="1360" dy="15" opacity="0.92">カ</tspan>
+      <tspan x="1360" dy="15" opacity="0.85">オ</tspan>
+      <tspan x="1360" dy="15" opacity="0.77">レ</tspan>
+      <tspan x="1360" dy="15" opacity="0.69">タ</tspan>
+      <tspan x="1360" dy="15" opacity="0.62">3</tspan>
+      <tspan x="1360" dy="15" opacity="0.54">C</tspan>
+      <tspan x="1360" dy="15" opacity="0.46">リ</tspan>
+      <tspan x="1360" dy="15" opacity="0.38">7</tspan>
+      <tspan x="1360" dy="15" opacity="0.31">リ</tspan>
+      <tspan x="1360" dy="15" opacity="0.23">ミ</tspan>
+      <tspan x="1360" dy="15" opacity="0.15">8</tspan>
+      <tspan x="1360" dy="15" opacity="0.15">3</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="3.49s" begin="-4.52s" repeatCount="indefinite"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="url(#glow)" filter="url(#softglow)" opacity="0.85">
+    <text x="1382" y="0">
+      <tspan x="1382" dy="0" opacity="1.00">ウ</tspan>
+      <tspan x="1382" dy="15" opacity="0.92">ア</tspan>
+      <tspan x="1382" dy="15" opacity="0.85">J</tspan>
+      <tspan x="1382" dy="15" opacity="0.77">D</tspan>
+      <tspan x="1382" dy="15" opacity="0.69">マ</tspan>
+      <tspan x="1382" dy="15" opacity="0.62">B</tspan>
+      <tspan x="1382" dy="15" opacity="0.54">C</tspan>
+      <tspan x="1382" dy="15" opacity="0.46">ヌ</tspan>
+      <tspan x="1382" dy="15" opacity="0.38">E</tspan>
+      <tspan x="1382" dy="15" opacity="0.31">5</tspan>
+      <tspan x="1382" dy="15" opacity="0.23">セ</tspan>
+      <tspan x="1382" dy="15" opacity="0.15">ケ</tspan>
+      <tspan x="1382" dy="15" opacity="0.15">チ</tspan>
+    </text>
+    <animateTransform attributeName="transform" type="translate"
+      from="0 -195" to="0 455"
+      dur="4.79s" begin="-3.37s" repeatCount="indefinite"/>
+  </g>
+  <rect width="1400" height="260" fill="#000000" opacity="0.35"/>
+
+  <text x="50%" y="46%" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="46" font-weight="700" fill="#39ff14" filter="url(#softglow)">JUAN PABLO MEDINA</text>
+  <text x="50%" y="60%" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="18" fill="#c8ffe0" opacity="0.9">Full-Stack Developer · Frontend Focused</text>
+  <text x="50%" y="72%" text-anchor="middle" font-family="Fira Code, monospace"
+        font-size="14" fill="#39ff14" opacity="0.7">&gt; CORDOBA / ARGENTINA</text>
+
+</svg>
