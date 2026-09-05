@@ -60,9 +60,6 @@ Desarrollo el sistema completo: **apps móviles, comunicación en tiempo real, g
 <div align="center">
 
 <sub>DESARROLLO MÓVIL — REACT NATIVE & EXPO</sub>
-
-# Apps que corren en tu bolsillo.
-
 </div>
 
 <br>
