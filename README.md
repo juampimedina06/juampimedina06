@@ -175,7 +175,7 @@ E-commerce enfocado en estado persistente, administración y un flujo de compra 
 
 `REACT` · `TYPESCRIPT` · `ZUSTAND` · `TANSTACK QUERY`
 
-[**VER REPOSITORIO ↗**](https://github.com/juampimedina06/ecommerce)
+[**VER PAGINA ↗**]([https://github.com/juampimedina06/ecommerce](https://peque-hongkong.vercel.app/))
 
 </td>
 
