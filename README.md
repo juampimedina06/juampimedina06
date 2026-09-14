@@ -39,9 +39,6 @@ Desarrollo el sistema completo: **apps móviles, comunicación en tiempo real, g
 `NODE.JS` · `EXPRESS` · `POSTGRESQL / POSTGIS` · `SOCKET.IO`
 
 <br>
-
-[**EXPLORAR EL SISTEMA →**](https://github.com/juampimedina06)
-
 </td>
 
 <td width="42%">
@@ -149,8 +146,8 @@ Plataforma full-stack de economía circular, con comunicación en tiempo real, m
 </td>
 
 <td width="50%">
+<img width="1255" height="848" alt="imagen_qlienta" src="https://github.com/user-attachments/assets/f361ee0d-8a6a-43e5-aeab-c7b48eb0e319" />
 
-<img width="1264" height="846" alt="hongkon" src="https://github.com/user-attachments/assets/eda69af0-0137-4f7b-ae88-6c4d6a474e03" />
 
 ### QLIENTA
 
@@ -184,7 +181,7 @@ E-commerce enfocado en estado persistente, administración y un flujo de compra 
 
 <td width="50%">
 
-<img width="1255" height="848" alt="imagen_qlienta" src="https://github.com/user-attachments/assets/f361ee0d-8a6a-43e5-aeab-c7b48eb0e319" />
+<img width="1264" height="846" alt="hongkon" src="https://github.com/user-attachments/assets/eda69af0-0137-4f7b-ae88-6c4d6a474e03" />
 
 
 </td>
