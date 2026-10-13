@@ -103,17 +103,17 @@ Explorá y buscá películas, con detalle de sinopsis, calificación y reparto a
 
 <td width="33%" valign="top">
 
-<img src="https://placehold.co/700x450/0d1117/39ff14?text=PRODUCTS+APP" width="100%" alt="Products App">
+<img width="591" height="1280" alt="inicio-products-app" src="https://github.com/user-attachments/assets/af9b20f5-ad37-443e-ad19-2c207298b0fd" />
 
-![](https://img.shields.io/badge/PRÓXIMAMENTE-0d1117?style=flat-square&labelColor=0d1117&color=666666)
+<details>
+<summary>🔄 Ver otra pantalla</summary>
+<br>
+<img  alt="detalle-products-app" src="https://github.com/user-attachments/assets/df2d5a26-3413-4787-8817-64c213dd2e11" width="100%" />
+</details>
 
 ### PRODUCTS APP
 
 Catálogo de productos con listado, filtros y consulta de detalle por producto. Usa endpoints separados para listado y detalle, y maneja las imágenes vía URL para no sobrecargar la carga inicial.
-
-<img src="https://skillicons.dev/icons?i=react,ts&theme=dark" alt="stack" height="32">
-
-<sub>Subo el repo pronto</sub>
 
 </td>
 </tr>
